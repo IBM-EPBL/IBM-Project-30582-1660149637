@@ -1,7 +1,7 @@
 <div align="center">   
   
   
-  
+<img src='https://cdn.dribbble.com/users/729829/screenshots/1986645/gif.gif' width="50" height="50">  
 # PROJECT DESIGN AND PLANNING
   
   Project design is an early phase of projet where ideas,processes,resources, and deliverables are planned out.
