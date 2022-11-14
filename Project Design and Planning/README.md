@@ -61,7 +61,7 @@
 <img src='https://www.vkreate.in/storage/services_image/2019-10-02-17-58-31-5d94e547333d3-web-design.gif' width="400" height="300">
   
   
-  <img src='https://i0.wp.com/marketurbanism.com/wp-content/uploads/2017/12/cta-arrow-right.gif?ssl=1' width="50" height="50">
+
   
   
   
