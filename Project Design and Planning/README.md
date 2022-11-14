@@ -1,12 +1,13 @@
 <div align="center">   
   
   
-<img src='https://cdn.dribbble.com/users/729829/screenshots/1986645/gif.gif' width="50" height="50">  
+<img scr='https://www.bing.com/images/search?view=detailV2&ccid=RA9cgrtY&id=66FFC46215E0452AD2EFEADF4F342B8F03C5BFA9&thid=OIP.RA9cgrtYfPZ8uboxKfptigHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fQRQctXBc4EjPq%2fgiphy.gif&exph=480&expw=479&q=leaf+Animation+for+presentation+in+white+gif&simid=608036390313022253&FORM=IRPRST&ck=0CDE0A350D6E9A25894F307A76939D40&selectedIndex=6' width="100" height="100">
+  
 # PROJECT DESIGN AND PLANNING
   
   Project design is an early phase of projet where ideas,processes,resources, and deliverables are planned out.
   
-  A Project design comes before a project plan whereas project planincludes more detaioled information.
+  A Project design comes before a project plan whereas project plan includes more detailed information.
   
   # IT INCLUDES
   
@@ -38,4 +39,4 @@
   
   
   
-x
+
