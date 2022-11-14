@@ -5,8 +5,11 @@
 ***Prerequisites are all the needs at the requirement level needed for the execution of different phases of a project***.
 
 
-<img src='https://gifimage.net/wp-content/uploads/2017/11/gif-logo-10.gif' alt="Flags"  width="200" height="200"> 
+<img src='https://gifimage.net/wp-content/uploads/2017/11/gif-logo-10.gif' alt="Flags"  width="50" height="50">INTRO
 
+<h2><picture>
+<img src='https://gifimage.net/wp-content/uploads/2017/11/gif-logo-10.gif' alt="Flags"  width="200" height="200"> 
+</picture> # IBM CLOUD SERVICES :</h2><i>
 
 # IBM CLOUD SERVICES
 # SOFTWARE
