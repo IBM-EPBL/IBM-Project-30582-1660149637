@@ -42,7 +42,7 @@
 ![team gif](https://user-images.githubusercontent.com/113347192/201072730-7ba5400f-101a-4070-9d5c-7c8c83120f76.png)
 ![team giphy](https://user-images.githubusercontent.com/113347192/201072774-d20f4777-768b-43f5-9ffa-af94e3ab1eff.gif)
 
-  # SPRINT 1 
+  # SPRINT 1    
    In a first step as a user to create the IBM cloud service and then launch the IBM watson IOT platform. 
    
    Then create a device in IBM cloud, after that simulate the created device then we get a  values of PH & turbidity.  
