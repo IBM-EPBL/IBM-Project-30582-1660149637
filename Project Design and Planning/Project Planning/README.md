@@ -42,21 +42,30 @@
 ![team gif](https://user-images.githubusercontent.com/113347192/201072730-7ba5400f-101a-4070-9d5c-7c8c83120f76.png)
 ![team giphy](https://user-images.githubusercontent.com/113347192/201072774-d20f4777-768b-43f5-9ffa-af94e3ab1eff.gif)
 
-  # SPRINT 1    
+  
+# SPRINT 1    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="Flags" width="32" height="32">
+</picture></a></h2  > 
+   
    In a first step as a user to create the IBM cloud service and then launch the IBM watson IOT platform. 
    
    Then create a device in IBM cloud, after that simulate the created device then we get a  values of PH & turbidity.  
-  # SPRINT 2
+  # SPRINT 2  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="Flags" width="32" height="32">
+</picture></a></h2  > 
+   
   In this sprint to create and access the NODE RED andthen i can get a API key through IBM watson.
   
   
   As as a user i can design the NODE RED flow and check the guage output
   
-  # SPRINT 3
+  # SPRINT 3 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="Flags" width="32" height="32">
+</picture></a></h2  > 
+   
   IN sprint 3 i can design the front end and back end  in MIT APP and simulate the ESP32.
   
   Then install the DHT PUBSUB Libraries and develope a code for sending the parameter to the cloud.
-  # SPRINT 4
+  
+  # SPRINT 4 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="Flags" width="32" height="32">
+</picture></a></h2  >
   
   To create a web UI and check the values of parameters. 
   
@@ -64,9 +73,7 @@
   
   Then i can get a values in my mobile application and also i can store the values in cloud database.
   
-  ![1234](https://user-images.githubusercontent.com/113347192/201074792-6073b86f-b5a9-47b8-8330-ca01b248a6df.gif)
-
-
+  
   
     
   
