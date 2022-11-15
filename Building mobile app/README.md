@@ -6,7 +6,7 @@
   
   
   
-  # BUILDING A MOBILE APP 
+  # BUILDING A MOBILE APP
     
 
 
@@ -16,6 +16,8 @@
 <img src='https://miro.medium.com/max/720/1*V4cV-UpcOn5sJ3hB75vdvA.gif' width="400" height="400">
 
 # DESIGN YOUR UI TO DISPLAY THE WATER TURBIDITY , PH VALUES
+
+
 
 
 <img src='https://gifimage.net/wp-content/uploads/2018/06/water-drop-animated-gif-10.gif' width="200" height="200">
@@ -33,6 +35,9 @@
 
 
 <img src='https://www.greenwebmedia.com/mobile-application-uk/images/mobile-app-tab2.gif' width="400" height="400">
+
+<div align="center">
+
 
 <img src='https://www.apple.com/newsroom/images/product/app-store/Apple_App_Store_10th_anniversary_07102018_big.gif.large.gif' width="400" height="400">
 
