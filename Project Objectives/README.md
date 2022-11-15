@@ -1,1 +1,19 @@
-<img src='https://cdn.dribbble.com/users/527451/screenshots/3085678/media/e680638568f5e9e108968ac295e67568.gif' width="800" height="600">
+<div align="center">
+
+
+# PROJECT OBJECTIVIES
+
+<img src='https://gifimage.net/wp-content/uploads/2018/04/objectives-gif-8.gif' width="300" height="300">
+
+
+
+
+
+
+
+
+
+
+
+
+
