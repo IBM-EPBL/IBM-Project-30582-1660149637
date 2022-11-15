@@ -1,18 +1,21 @@
- PYTHON SCRIPT DEVELOPMENT
 <div align="center">
+ 
+ 
+ # PYTHON SCRIPT DEVELOPMENT
 
 
 <img src='https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif' width="600" height="600">
 
- PYTHON SCRIPT DEVELOPMENT
- 
+
  
 # PYTHON CODE
-
-                      To develope a python code for publishing random sensor data suchas
-                               TURBIDITY VALUE
-                               PH VALUES 
-                               TEMPERATURE VALUE
+To develope a python code for publishing random sensor data suchas
+ 
+TURBIDITY VALUE
+ 
+PH VALUE
+ 
+TEMPERATURE VALUE
                          
 
 
