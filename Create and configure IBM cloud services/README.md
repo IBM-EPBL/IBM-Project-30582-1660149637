@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src='https://miro.medium.com/max/640/1*y_rRN_EmjVu0CPTrN9clzA.gif' width="300" height="300">
+<img src='https://1.bp.blogspot.com/-OVkR8Tw3LCM/V_NTAoJ_W9I/AAAAAAAA_-g/oCcCRNfVfpQhyt_eHQh4JVqBMy1s_g39QCLcB/s1600/0_11ef60_5b7db618_orig.gif' width="300" height="300">
 
 # CREATE AND CONFIGURE IBM CLOUD SERVICES
 
@@ -9,14 +9,14 @@
 
 
 # CREATE IBM WATSON IOT PLATFORM AND DEVICE
-<img src='https://secure.wphackedhelp.com/blog/wp-content/uploads/2019/04/backup_animation.gif' width="300" height="300">
+<img src='https://astral-cloud.com/wp-content/uploads/2020/01/image-7.gif' width="300" height="300">
 
 
 # CREATE NODE-RED SERVICE
 
 
 
-
+<img src='https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2017/06/Banner_nodered3-1280x680.png'  width="300" height="300">
 
 
 
