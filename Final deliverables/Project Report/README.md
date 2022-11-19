@@ -1,2 +1,1 @@
-# PROJECT DEMONSTRATION VIDEO LINK
-https://www.kapwing.com/videos/6377432ab0dfe10011811de9
+
